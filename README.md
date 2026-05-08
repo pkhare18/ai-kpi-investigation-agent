@@ -71,6 +71,8 @@ data_processor.py ├── CLAUDE.md ├── sample_data/ └── README.md
 ## ▶️ How to Run
 
 pip install -r requirements.txt streamlit run app.py
+streamlit run app.py
+https://redesigned-train-6pj4xr4xj5vc44wx-8501.app.github.dev/
 
 ------------------------------------------------------------------------
 
